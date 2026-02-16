@@ -1,0 +1,6 @@
+name: MonitoringHytaleQuery
+version: ${project.version}
+main: dev.monitoringhytale.query.MonitoringHytaleQueryPlugin
+api-version: "1.0"
+authors: [MonitoringHytale]
+description: MonitoringHytale query plugin

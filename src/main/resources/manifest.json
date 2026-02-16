@@ -1,0 +1,15 @@
+{
+  "Group": "MonitoringHytale",
+  "Name": "MonitoringHytaleQuery",
+  "Version": "2.2.2",
+  "Authors": [
+    {
+      "Name": "MonitoringHytale",
+      "Url": "https://monitoringhytale.ru"
+    }
+  ],
+  "Website": "https://monitoringhytale.ru",
+  "Main": "dev.monitoringhytale.query.MonitoringHytaleQueryPlugin",
+  "ServerVersion": "*",
+  "Description": "Lightweight UDP query protocol for server status. Supports multi-server networks with combined player counts and player lists."
+}
